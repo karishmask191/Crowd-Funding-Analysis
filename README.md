@@ -50,4 +50,4 @@ Refer to images inside each folder for dashboards.
 📧 Email: [karishmask191@gmail.com] or [karishmaswa@gmail.com]
 🔗 LinkedIn: https: [www.linkedin.com/in/karishma191]
 
-Open to Data Analyst opportunities and collaborations.
+Open to Data Roles and Analyst opportunities and collaborations.
