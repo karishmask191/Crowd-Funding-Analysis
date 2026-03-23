@@ -38,6 +38,10 @@ Due to GitHub size limitations, a sample dataset is included.
 
 Refer to images inside each folder for dashboards.
 
+## 📊 Project Presentation
+View Presentation Here:
+[https://docs.google.com/presentation/d/17LhGXccJl0Pn7RKXC-ZwAVzl8nIB1_3A/edit?usp=sharing&ouid=102777934000367579601&rtpof=true&sd=true]
+
 ## 💡 Skills Demonstrated
 
 * Data Cleaning & Transformation
