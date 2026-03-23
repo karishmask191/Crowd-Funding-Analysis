@@ -22,7 +22,7 @@ It provides insights into project performance, funding patterns, and success tre
 
 ## 📷 Dashboard Preview
 
-(Refer to the image file in this folder)
+(Refer to the EXCEL_1 & EXCEL_2 image files in this folder)
 
 ## 💡 Key Learnings
 
